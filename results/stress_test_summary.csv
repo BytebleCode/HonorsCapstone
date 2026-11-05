@@ -1,0 +1,105 @@
+system,dimension,category,Expected direction,No reaction,Opposite direction
+C1,arousal,Intensity,0.833,0.0,0.167
+C1,arousal,Retail slang,0.333,0.333,0.333
+C1,arousal,Routine vs urgent,1.0,0.0,0.0
+C1,valence,Finance meaning,0.833,0.0,0.167
+C1,valence,Good news about bad things,0.5,0.333,0.167
+C1,valence,Hedging,0.2,0.4,0.4
+C1,valence,Negation,1.0,0.0,0.0
+C1,valence,Numbers only,0.2,0.8,0.0
+C2,arousal,Intensity,1.0,0.0,0.0
+C2,arousal,Retail slang,0.833,0.167,0.0
+C2,arousal,Routine vs urgent,1.0,0.0,0.0
+C2,valence,Finance meaning,1.0,0.0,0.0
+C2,valence,Good news about bad things,1.0,0.0,0.0
+C2,valence,Hedging,1.0,0.0,0.0
+C2,valence,Negation,1.0,0.0,0.0
+C2,valence,Numbers only,0.4,0.6,0.0
+C3,arousal,Intensity,0.167,0.5,0.333
+C3,arousal,Retail slang,0.167,0.5,0.333
+C3,arousal,Routine vs urgent,0.5,0.167,0.333
+C3,valence,Finance meaning,0.5,0.167,0.333
+C3,valence,Good news about bad things,0.5,0.167,0.333
+C3,valence,Hedging,0.8,0.2,0.0
+C3,valence,Negation,0.833,0.167,0.0
+C3,valence,Numbers only,0.4,0.6,0.0
+C4,arousal,Intensity,0.5,0.333,0.167
+C4,arousal,Retail slang,0.333,0.5,0.167
+C4,arousal,Routine vs urgent,0.833,0.167,0.0
+C4,valence,Finance meaning,0.5,0.333,0.167
+C4,valence,Good news about bad things,0.667,0.0,0.333
+C4,valence,Hedging,0.8,0.2,0.0
+C4,valence,Negation,0.833,0.167,0.0
+C4,valence,Numbers only,0.4,0.6,0.0
+C5,arousal,Intensity,0.833,0.167,0.0
+C5,arousal,Retail slang,0.833,0.167,0.0
+C5,arousal,Routine vs urgent,0.833,0.167,0.0
+C5,valence,Finance meaning,1.0,0.0,0.0
+C5,valence,Good news about bad things,1.0,0.0,0.0
+C5,valence,Hedging,0.4,0.4,0.2
+C5,valence,Negation,1.0,0.0,0.0
+C5,valence,Numbers only,0.8,0.2,0.0
+C6,arousal,Intensity,1.0,0.0,0.0
+C6,arousal,Retail slang,0.833,0.0,0.167
+C6,arousal,Routine vs urgent,0.667,0.0,0.333
+C6,valence,Finance meaning,0.667,0.0,0.333
+C6,valence,Good news about bad things,1.0,0.0,0.0
+C6,valence,Hedging,1.0,0.0,0.0
+C6,valence,Negation,1.0,0.0,0.0
+C6,valence,Numbers only,0.6,0.2,0.2
+R1,arousal,Intensity,0.167,0.5,0.333
+R1,arousal,Retail slang,0.667,0.167,0.167
+R1,arousal,Routine vs urgent,0.833,0.167,0.0
+R1,valence,Finance meaning,0.167,0.667,0.167
+R1,valence,Good news about bad things,0.5,0.333,0.167
+R1,valence,Hedging,0.0,1.0,0.0
+R1,valence,Negation,0.833,0.167,0.0
+R1,valence,Numbers only,0.2,0.8,0.0
+R2,arousal,Intensity,0.0,0.833,0.167
+R2,arousal,Retail slang,0.0,0.667,0.333
+R2,arousal,Routine vs urgent,1.0,0.0,0.0
+R2,valence,Finance meaning,0.167,0.667,0.167
+R2,valence,Good news about bad things,0.167,0.667,0.167
+R2,valence,Hedging,0.0,1.0,0.0
+R2,valence,Negation,0.333,0.5,0.167
+R2,valence,Numbers only,0.0,1.0,0.0
+R3,arousal,Intensity,0.5,0.333,0.167
+R3,arousal,Retail slang,0.5,0.0,0.5
+R3,arousal,Routine vs urgent,0.833,0.0,0.167
+R3,valence,Finance meaning,0.833,0.167,0.0
+R3,valence,Good news about bad things,0.5,0.167,0.333
+R3,valence,Hedging,0.6,0.2,0.2
+R3,valence,Negation,0.667,0.167,0.167
+R3,valence,Numbers only,0.2,0.8,0.0
+R4,arousal,Intensity,0.333,0.5,0.167
+R4,arousal,Retail slang,0.333,0.167,0.5
+R4,arousal,Routine vs urgent,1.0,0.0,0.0
+R4,valence,Finance meaning,0.833,0.0,0.167
+R4,valence,Good news about bad things,0.833,0.167,0.0
+R4,valence,Hedging,0.2,0.6,0.2
+R4,valence,Negation,1.0,0.0,0.0
+R4,valence,Numbers only,0.6,0.0,0.4
+R5,arousal,Intensity,0.667,0.0,0.333
+R5,arousal,Retail slang,0.833,0.167,0.0
+R5,arousal,Routine vs urgent,1.0,0.0,0.0
+R5,valence,Finance meaning,0.833,0.0,0.167
+R5,valence,Good news about bad things,0.667,0.167,0.167
+R5,valence,Hedging,0.8,0.2,0.0
+R5,valence,Negation,1.0,0.0,0.0
+R5,valence,Numbers only,0.6,0.4,0.0
+R6,arousal,Intensity,0.333,0.667,0.0
+R6,arousal,Retail slang,0.167,0.667,0.167
+R6,arousal,Routine vs urgent,0.833,0.167,0.0
+R6,valence,Finance meaning,0.667,0.167,0.167
+R6,valence,Good news about bad things,0.667,0.167,0.167
+R6,valence,Hedging,0.8,0.2,0.0
+R6,valence,Negation,0.833,0.0,0.167
+R6,valence,Numbers only,0.4,0.6,0.0
+R7,arousal,Intensity,1.0,0.0,0.0
+R7,arousal,Retail slang,0.667,0.0,0.333
+R7,arousal,Routine vs urgent,1.0,0.0,0.0
+R7,valence,Finance meaning,0.833,0.0,0.167
+R7,valence,Good news about bad things,1.0,0.0,0.0
+R7,valence,Hedging,1.0,0.0,0.0
+R7,valence,Negation,1.0,0.0,0.0
+R7,valence,Numbers only,1.0,0.0,0.0

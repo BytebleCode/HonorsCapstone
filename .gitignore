@@ -1,0 +1,10 @@
+# This repository publishes performance results only. Everything is ignored unless listed here,
+# so stock prices, headlines, per-headline scores, models and code cannot be added by accident.
+/*
+!/.gitignore
+!/README.md
+!/summary.md
+!/charts/
+!/results/
+/results/*
+!/results/*.csv

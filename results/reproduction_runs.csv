@@ -1,0 +1,14 @@
+run_set,best_epoch,seed,sharpe,sortino,max_drawdown,final_wealth,annual_return,annual_vol,seconds,test_days,effective_n
+Repository defaults,2,0,0.3967,0.4836,0.3415,1.3377,0.0602,0.196,73,1255,
+Repository defaults,3,1,0.3867,0.4659,0.2951,1.3116,0.056,0.1855,85,1255,
+Repository defaults,3,2,0.4036,0.5048,0.3357,1.3344,0.0596,0.187,85,1255,
+Repository defaults,3,3,0.516,0.6241,0.3064,1.4869,0.0829,0.1893,85,1255,
+Repository defaults,2,4,0.6304,0.7911,0.3087,1.6314,0.1033,0.1824,72,1255,
+Trade-date close added,2,0,0.335,0.4151,0.3347,1.2554,0.0467,0.1911,74,1255,17.3597
+Trade-date close added,2,1,0.4058,0.4875,0.2953,1.332,0.0593,0.1835,72,1255,14.6439
+Trade-date close added,3,2,0.6569,0.8131,0.3249,1.6899,0.1111,0.1871,85,1255,15.1852
+Trade-date close added,3,3,0.4449,0.5372,0.3003,1.3951,0.0691,0.1918,85,1255,12.954
+Trade-date close added,2,4,0.8138,1.03,0.3256,1.9778,0.1468,0.1908,72,1255,13.9464
+"Paper's stated schedule, trade-date close added",2,0,0.335,0.4151,0.3347,1.2554,0.0467,0.1911,289,1255,17.3597
+"Paper's stated schedule, trade-date close added",2,1,0.4058,0.4875,0.2953,1.332,0.0593,0.1835,622,1255,14.6439
+"Paper's stated schedule, trade-date close added",2,2,0.5501,0.6772,0.3304,1.5344,0.0898,0.1888,519,1255,20.0509

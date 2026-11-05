@@ -1,0 +1,14 @@
+system,name,family,domain,origin,arousal_type,valence_mean,valence_std,arousal_mean,arousal_std,share_neutral,share_negative,share_positive,arousal_valence_corr,arousal_variance_from_valence
+R1,VADER,rule-based,social,off the shelf,proxy,0.1141,0.3043,0.2158,0.2429,0.4512,0.1485,0.4003,1.0,1.0
+R2,Loughran-McDonald,lexicon,finance,off the shelf,proxy,-0.0081,0.2709,0.1469,0.2481,0.7329,0.14,0.1272,0.8861,0.7851
+R3,NRC VAD,lexicon,general,off the shelf,native,0.1965,0.1674,0.495,0.0706,0.045,0.0851,0.8699,0.0868,0.0075
+R4,FinBERT,classifier,finance,off the shelf,proxy,0.129,0.5182,0.4663,0.3616,0.1047,0.2476,0.6477,0.9505,0.9034
+R5,Twitter RoBERTa,classifier,social,off the shelf,proxy,0.1191,0.3469,0.3097,0.2361,0.0727,0.2217,0.7056,0.9533,0.9088
+R6,GoEmotions,emotion,social,off the shelf,derived,0.0297,0.1411,0.3527,0.0632,0.3401,0.1242,0.5358,0.8301,0.6891
+R7,Local LLM,LLM,general,off the shelf,native,0.3611,0.4085,0.666,0.1576,0.0199,0.2061,0.774,0.7807,0.6096
+C1,FinLex-VA,lexicon,finance,custom,native,0.345,0.2973,0.4994,0.1335,0.0651,0.1021,0.8328,0.2637,0.0696
+C2,RoBERTa-VA,regression,general,custom,native,0.0573,0.1051,0.5058,0.027,0.0806,0.1784,0.741,0.52,0.2704
+C3,FinBERT-VA,regression,finance,custom,native,0.0225,0.1063,0.5055,0.0455,0.1455,0.2993,0.5552,0.1927,0.0371
+C4,Aspect-VA,regression,finance,custom,native,0.0375,0.1369,0.543,0.0276,0.0859,0.2561,0.658,0.7031,0.4944
+C5,InvestorEmotion-VA,emotion,investor,custom,derived,0.1206,0.3558,0.6056,0.1031,0.0187,0.3116,0.6696,-0.0301,0.0009
+C6,Distilled-VA,regression,finance,custom,native,0.3785,0.3979,0.6813,0.1482,0.019,0.1944,0.7866,0.8618,0.7427
